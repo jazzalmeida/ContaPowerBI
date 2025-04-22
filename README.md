@@ -4,7 +4,7 @@ Você já tentou criar uma conta no Power BI e ficou preso no login em loop infi
 Ou foi bloqueado porque não tem um e-mail corporativo?\
 Pois é... também passei por isso. 😩
 
-NÃO PRECISA CRIAR EMAIL EMPRESARIAL NA MICROSOFT, REDUZINDO TEMPO E EMPECILHOS COMO CNPJ, TELEFONE, DADOS CARTÃO.
+NÃO PRECISA CRIAR EMAIL EMPRESARIAL NA MICROSOFT, PORÉM NÃO CONSEGUIMOS SER ADM (ainda estou pesquisando sobre contortar isso e trago update).
 
 Mas descobri uma forma de **criar uma conta usando um e-mail temporário** e fazer tudo funcionar — inclusive o login no Power BI Desktop.\
 Aqui está o passo a passo que segui e que funcionou de verdade:
