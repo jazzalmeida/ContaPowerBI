@@ -20,6 +20,7 @@ Acesse: [https://temp-mail.org/pt/](https://temp-mail.org/pt/)
 
 ### 2. Vá até o site do Power BI
 
+- Em um perfil novo ou visitante, ou na aba anônima (testei em ambos) acesse:
 [https://app.powerbi.com/](https://app.powerbi.com/)
 
 - Cole o e-mail temporário e clique em **"Enviar"**.
@@ -61,9 +62,13 @@ Vai aparecer uma mensagem de **ação necessária**.
 
 - O app mostrará um código e URL, confirme/avance.
 - Volte ao navegador, clique em **"Próximo"** aparecerá um número (possívelmente dois dígitos), volte ao app, abra o autenticador gerado e digite o código númerico.
-- Se der erro, um novo código será gerado, tente novamente.
+- Se der erro, um novo código pode ser gerado, tente novamente.
 
 ✅ Pronto! Você está dentro da sua nova conta Power BI.
+
+
+![image](https://github.com/user-attachments/assets/01bc3ac4-ec72-46ca-be6c-061324971280)
+
 
 ---
 
